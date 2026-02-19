@@ -47,3 +47,17 @@ Different multiplier architectures provide different trade-offs in terms of spee
   Booth Multiplier provided a balanced trade-off between area and speed
   Array Multiplier consumed the highest area
 Detailed timing and area reports are available in the synthesis directory.
+
+9. Key Learning Outcomes
+
+Implementation of multiple multiplier architectures
+
+Writing synthesizable Verilog
+
+Development of self-checking testbenches
+
+Functional verification using reference models
+
+Post-synthesis timing and area comparison
+
+Understanding architectural trade-offs
